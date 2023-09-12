@@ -2935,11 +2935,9 @@ button:disabled,
 
 .tiles article:nth-child(6n - 5):before {
   background-color: #ed6a5a;
-  /*background-color: #bdd5ea;*/
 }
 
 .tiles article:nth-child(6n - 4):before {
-  /*background-color: #ed6a5a;*/
   background-color: #2a3554;
 }
 
